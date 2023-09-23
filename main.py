@@ -189,7 +189,7 @@ def harfHesaplama():
     return k
 print(f"kelimeniz {harfHesaplama()} harflidir.")
 """
-
+"""
 #rock/paper/scissors game with python
 import random
 while True:
@@ -223,7 +223,7 @@ while True:
     else:
         print("tchüss")
     break
-
+"""
 
 
 

@@ -34,7 +34,6 @@ while sayac < len(metin):
 """
 """"
 #Örnek 18:  Klavyeden girilen iki sayı arasındaki sayıları toplayan python kodunu yazınız.
-#internetten yardımla :)
 toplam=0
 sayi1=int(input('1. Sayıyı Giriniz: '))
 sayi2=int(input('2. Sayıyı Giriniz: '))
@@ -53,7 +52,7 @@ for i in range(2,asalSayi):
     else:
         print("sayınız {}.Yani asal değil.".format(asalSayi))
         break
-#2.yol(internetten)
+#2.yol
 sayac=0
 sayi=input('Bir Sayı Giriniz: ')
 for i in range(2,int(sayi)):
@@ -77,7 +76,6 @@ for i in range(1,num):
         toplam1=toplam1+i
 print(f"{num}'a kadar olan çift sayıların toplamı {toplam}.")
 print(f"{num}'a kadar olan tek sayıların toplamı {toplam1}.")
-#VALLA BECERDİM KENDİM YAPTIM.
 
 #Örnek 25:  Klavyeden girilen başlangıç ve bitiş sayıları arasında bulunan çift sayıların ortalamasını bulan python kodunu yazınız.
 num = int(input("başlangıç sayısını girin : "))
